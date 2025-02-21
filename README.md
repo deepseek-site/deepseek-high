@@ -25,12 +25,16 @@
 
 最新发布的 **DeepSeek R1 满血版**不仅在性能上媲美了 OpenAI 的 o1、o3，且以对手 3% 的超低成本实现了这一突破。
 
+---
+
 ## DeepSeek 官网入口：
 
 * **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网高速版（快速流畅）](https://chat.lify.vip)
 * **DeepSeek 客户端：**[访问](https://download.deepseek.com/app/) 、 [下载（👆右上角）](https://chat.lify.vip) 
 * **DeepSeek API：**[访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：**[访问](https://status.deepseek.com/)
+
+---
 
 ## DeepSeek 高速版入口（官方平替）
 
@@ -41,6 +45,8 @@
 * **Cursor：**[访问](https://www.cursor.com/)
 * **POE：**[访问](https://poe.com/DeepSeek-R1)
 * **国家超算互联网：**[访问](https://chat.scnet.cn/)
+
+---
 
 ## DeepSeek 学习资料：
 
