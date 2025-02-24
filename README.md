@@ -1,8 +1,8 @@
-# DeepSeek官网 - 深度求索 DeepSeek AI高速版 - DeepSeek中文官网 | DeepSeek 最新使用指南~ 【2025/02/24 更新】    
+# DeepSeek官网 - 深度求索 DeepSeek AI高速版 - DeepSeek中文官网 | DeepSeek 最新使用指南~ 【2025/02/25 更新】    
 
-**DeepSeek**是由深度求索开发的AI大模型，凭借低成本、高性能的特点迅速崛起，进入[**DeepSeek高速网页版**](https://chat.lify.vip)，可快速流畅地使用[**DeepSeek R1满血版**](https://chat.lify.vip)，享受不间断的AI服务。
+**DeepSeek**是由深度求索开发的AI大模型，凭借低成本、高性能的特点迅速崛起，进入[**DeepSeek高速网页版**](https://chat.yixiaai.com)，可快速流畅地使用[**DeepSeek R1满血版**](https://chat.yixiaai.com)，享受不间断的AI服务。
 
-本指南提供最全面的 **DeepSeek 稳定使用指南**，包含 [**DeepSeek 高速版入口**](https://chat.lify.vip)、[**DeepSeek 官网平替**](https://chat.lify.vip)、[**DeepSeek 网页版**](https://chat.lify.vip)、[**DeepSeek 下载使用**](https://chat.lify.vip)，助您顺畅使用 DeepSeek ~
+本指南提供最全面的 **DeepSeek 稳定使用指南**，包含 [**DeepSeek 高速版入口**](https://chat.yixiaai.com)、[**DeepSeek 官网平替**](https://chat.yixiaai.com)、[**DeepSeek 网页版**](https://chat.yixiaai.com)、[**DeepSeek 下载使用**](https://chat.yixiaai.com)，助您顺畅使用 DeepSeek ~
 
 ---
 
@@ -29,8 +29,8 @@
 
 ## DeepSeek 官网入口：
 
-* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网高速版（快速流畅）](https://chat.lify.vip)
-* **DeepSeek 客户端：**[访问](https://download.deepseek.com/app/) 、 [下载（👆右上角）](https://chat.lify.vip) 
+* **DeepSeek 网页版：**[官网【总是繁忙】](https://www.deepseek.com/)  、  [🔥官网高速版（快速流畅）](https://chat.yixiaai.com)
+* **DeepSeek 客户端：**[访问](https://download.deepseek.com/app/) 、 [下载（👆右上角）](https://chat.yixiaai.com) 
 * **DeepSeek API：**[访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：**[访问](https://status.deepseek.com/)
 
@@ -38,7 +38,7 @@
 
 ## DeepSeek 高速版入口（官方平替）
 
-* **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.lify.vip/) - **DeepSeek 高速网页版**，支持 **DeepSeek R1满血版**、V3模型~
+* **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.yixiaai.com/) - **DeepSeek 高速网页版**，支持 **DeepSeek R1满血版**、V3模型~
 * **🔥一下 AI：**[www.yixiaai.com](https://www.yixiaai.com/) - **DeepSeek 高速版**，官方平替，支持DeepSeek、ChatGPT 和 Claude 等最好的模型
 * **秘塔 AI：**[访问](https://metaso.cn/)
 * **纳米 AI：**[访问](https://www.n.cn/)
