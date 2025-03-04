@@ -1,6 +1,6 @@
 # DeepSeek官网 - 深度求索 DeepSeek AI高速版 - DeepSeek中文官网 | DeepSeek 最新使用指南~ 【3月最新更新】
 
-> 更新时间：2025/03/05    
+> 更新时间：2025/03/05     
 
 **DeepSeek**是由深度求索开发的AI大模型，凭借低成本、高性能的特点迅速崛起，进入[**DeepSeek高速网页版**](https://chat.yixiaai.com)，可快速流畅地使用[**DeepSeek R1满血版**](https://chat.yixiaai.com)，享受不间断的AI服务。
 
